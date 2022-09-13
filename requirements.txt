@@ -1,4 +1,4 @@
-# I am a Noob developer
+# I am an Uninformed developer
 # This is my first project
 # These are the dependencies needed to run my project
 
